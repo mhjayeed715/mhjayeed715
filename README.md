@@ -459,7 +459,7 @@ Interactive career progression tracker guiding developers through tech stack mil
 <br/><br/>
 
 <a href="https://github.com/mhjayeed715">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=100&section=footer&text=Crafted%20with%20%E2%9D%A4%EF%B8%8F%20%26%20%E2%9A%A1%20by%20S.%20M.%20Mehrab%20Hossain%20Jayeed&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:38bdf8&height=120&section=footer&text=Crafted%20by%20S.%20M.%20Mehrab%20Hossain%20Jayeed&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
 </a>
 
 </div>

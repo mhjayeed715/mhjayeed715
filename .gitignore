@@ -18,5 +18,6 @@ myresources/projects/*
 # Python cache & system files
 __pycache__/
 *.pyc
+scratch/
 .DS_Store
 Thumbs.db
