@@ -4,7 +4,7 @@
 <!-- HERO BANNER — animated hello video                                        -->
 <!-- ████████████████████████████████████████████████████████████████████████ -->
 <a href="https://jayeed.pro.bd">
-  <img src="./hero.svg?v=3" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
+  <img src="./hero.svg?v=5" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
 </a>
 
 <!-- TYPING GREETING -->
@@ -60,7 +60,7 @@
 ## 🪪 Developer ID & Mission Control
 
 <div align="center">
-  <img src="./id-dashboard.svg?v=3" width="100%" alt="Jayeed Developer ID & Dashboard"/>
+  <img src="./id-dashboard.svg?v=5" width="100%" alt="Jayeed Developer ID & Dashboard"/>
 </div>
 
 <div align="center">
@@ -97,7 +97,7 @@
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="./stack.svg?v=3" width="100%" alt="Technical Arsenal"/>
+  <img src="./stack.svg?v=5" width="100%" alt="Technical Arsenal"/>
 </div>
 
 <br/>
@@ -402,7 +402,7 @@ Interactive career progression tracker guiding developers through tech stack mil
   <img width="340" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mhjayeed715&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
 </td>
 <td align="center" style="border: none;">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhjayeed715&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
+  <img src="https://github-profile-trophy-seven.vercel.app/?username=mhjayeed715&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
 </td>
 </tr>
 </table>
@@ -447,6 +447,13 @@ Interactive career progression tracker guiding developers through tech stack mil
 </p>
 
 <div align="center">
+
+<!-- 💌 LET'S CONNECT -->
+<a href="https://jayeed.pro.bd">
+  <img src="./connect.svg?v=5" width="100%" alt="Let's connect — S. M. Mehrab Hossain Jayeed"/>
+</a>
+
+<br/><br/>
 
 <a href="https://jayeed.pro.bd"><img src="https://img.shields.io/badge/Portfolio-jayeed.pro.bd-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/mhjayeed715/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
