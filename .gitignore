@@ -1,0 +1,22 @@
+# Reference templates and external code
+Meghamittal0920-main/
+
+# Generation and utility scripts
+*.py
+
+# Intermediate media, frame extraction & raw photos
+hero_video_frames/
+myresources/*
+!myresources/projects/
+myresources/projects/*
+!myresources/projects/unisharesync_mobile.png
+!myresources/projects/focusnyx.png
+!myresources/projects/doublegapindexx.png
+!myresources/projects/GigCampus.png
+!myresources/projects/skillvoyage.png
+
+# Python cache & system files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
