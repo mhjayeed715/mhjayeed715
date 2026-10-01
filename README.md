@@ -4,12 +4,12 @@
 <!-- HERO BANNER — animated hello video                                        -->
 <!-- ████████████████████████████████████████████████████████████████████████ -->
 <a href="https://jayeed.pro.bd">
-  <img src="./hero.svg?v=6" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
+  <img src="./hero.svg?v=7" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
 </a>
 
 <!-- TYPING GREETING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=28&pause=1400&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Hi+There!+%F0%9F%91%8B;I'm+S.+M.+Mehrab+Hossain+Jayeed!;AI+Engineer+%7C+Full-Stack+Builder;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Computer+Vision;Friendly+neighborhood+dev+%F0%9F%95%B8%EF%B8%8F+%3A3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=28&pause=1400&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Hello+There!+%F0%9F%91%8B;I'm+S.+M.+Mehrab+Hossain+Jayeed!;AI+Engineer+%7C+Full-Stack+Builder;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Computer+Vision;Friendly+neighborhood+dev+%F0%9F%95%B8%EF%B8%8F+%3A3" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -60,7 +60,7 @@
 ## 🪪 Developer ID & Mission Control
 
 <div align="center">
-  <img src="./id-dashboard.svg?v=5" width="100%" alt="Jayeed Developer ID & Dashboard"/>
+  <img src="./id-dashboard.svg?v=7" width="100%" alt="Jayeed Developer ID & Dashboard"/>
 </div>
 
 <div align="center">
@@ -97,7 +97,7 @@
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="./stack.svg?v=5" width="100%" alt="Technical Arsenal"/>
+  <img src="./stack.svg?v=7" width="100%" alt="Technical Arsenal"/>
 </div>
 
 <br/>
@@ -409,22 +409,7 @@ Interactive career progression tracker guiding developers through tech stack mil
 
 <br/>
 
-<table style="border: none; background: transparent;">
-<tr>
-<td align="center" style="border: none;">
-  <a href="https://github.com/mhjayeed715/UniShareSync-Mobile-App">
-    <img width="380" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=mhjayeed715&repo=UniShareSync-Mobile-App&theme=react&border_radius=10" alt="UniShareSync"/>
-  </a>
-</td>
-<td align="center" style="border: none;">
-  <a href="https://github.com/mhjayeed715/Focusnyx">
-    <img width="380" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=mhjayeed715&repo=Focusnyx&theme=react&border_radius=10" alt="Focusnyx"/>
-  </a>
-</td>
-</tr>
-</table>
 
-<br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
 
@@ -450,7 +435,7 @@ Interactive career progression tracker guiding developers through tech stack mil
 
 <!-- 💌 LET'S CONNECT -->
 <a href="https://jayeed.pro.bd">
-  <img src="./connect.svg?v=5" width="100%" alt="Let's connect — S. M. Mehrab Hossain Jayeed"/>
+  <img src="./connect.svg?v=7" width="100%" alt="Let's connect — S. M. Mehrab Hossain Jayeed"/>
 </a>
 
 <br/><br/>
