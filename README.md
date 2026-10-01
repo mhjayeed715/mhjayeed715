@@ -4,7 +4,7 @@
 <!-- HERO BANNER — animated hello video                                        -->
 <!-- ████████████████████████████████████████████████████████████████████████ -->
 <a href="https://jayeed.pro.bd">
-  <img src="./hero.svg?v=2" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
+  <img src="./hero.svg?v=3" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
 </a>
 
 <!-- TYPING GREETING -->
@@ -60,7 +60,7 @@
 ## 🪪 Developer ID & Mission Control
 
 <div align="center">
-  <img src="./id-dashboard.svg?v=2" width="100%" alt="Jayeed Developer ID & Dashboard"/>
+  <img src="./id-dashboard.svg?v=3" width="100%" alt="Jayeed Developer ID & Dashboard"/>
 </div>
 
 <div align="center">
@@ -97,7 +97,7 @@
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="./stack.svg?v=2" width="100%" alt="Technical Arsenal"/>
+  <img src="./stack.svg?v=3" width="100%" alt="Technical Arsenal"/>
 </div>
 
 <br/>
