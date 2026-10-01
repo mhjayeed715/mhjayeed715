@@ -4,7 +4,7 @@
 <!-- HERO BANNER — animated hello video                                        -->
 <!-- ████████████████████████████████████████████████████████████████████████ -->
 <a href="https://jayeed.pro.bd">
-  <img src="./hero.svg" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
+  <img src="./hero.svg?v=2" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
 </a>
 
 <!-- TYPING GREETING -->
@@ -60,7 +60,7 @@
 ## 🪪 Developer ID & Mission Control
 
 <div align="center">
-  <img src="./id-dashboard.svg" width="100%" alt="Jayeed Developer ID & Dashboard"/>
+  <img src="./id-dashboard.svg?v=2" width="100%" alt="Jayeed Developer ID & Dashboard"/>
 </div>
 
 <div align="center">
@@ -97,7 +97,7 @@
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="./stack.svg" width="100%" alt="Technical Arsenal"/>
+  <img src="./stack.svg?v=2" width="100%" alt="Technical Arsenal"/>
 </div>
 
 <br/>
@@ -409,7 +409,20 @@ Interactive career progression tracker guiding developers through tech stack mil
 
 <br/>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=mhjayeed715&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" alt="top repos"/>
+<table style="border: none; background: transparent;">
+<tr>
+<td align="center" style="border: none;">
+  <a href="https://github.com/mhjayeed715/UniShareSync-Mobile-App">
+    <img width="380" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=mhjayeed715&repo=UniShareSync-Mobile-App&theme=react&border_radius=10" alt="UniShareSync"/>
+  </a>
+</td>
+<td align="center" style="border: none;">
+  <a href="https://github.com/mhjayeed715/Focusnyx">
+    <img width="380" src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=mhjayeed715&repo=Focusnyx&theme=react&border_radius=10" alt="Focusnyx"/>
+  </a>
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
