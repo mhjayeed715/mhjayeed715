@@ -4,7 +4,7 @@
 <!-- HERO BANNER — animated hello video                                        -->
 <!-- ████████████████████████████████████████████████████████████████████████ -->
 <a href="https://jayeed.pro.bd">
-  <img src="./hero.svg?v=5" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
+  <img src="./hero.svg?v=6" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
 </a>
 
 <!-- TYPING GREETING -->
