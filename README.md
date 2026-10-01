@@ -4,12 +4,12 @@
 <!-- HERO BANNER — animated hello video                                        -->
 <!-- ████████████████████████████████████████████████████████████████████████ -->
 <a href="https://jayeed.pro.bd">
-  <img src="./hero.svg?v=7" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
+  <img src="./hero.svg?v=8" width="100%" alt="S. M. Mehrab Hossain Jayeed — AI Engineer, Full-Stack Mobile & Web Developer" />
 </a>
 
 <!-- TYPING GREETING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=28&pause=1400&color=38BDF8&center=true&vCenter=true&width=700&height=55&lines=Hello+There!+%F0%9F%91%8B;I'm+S.+M.+Mehrab+Hossain+Jayeed!;AI+Engineer+%7C+Full-Stack+Builder;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Computer+Vision;Friendly+neighborhood+dev+%F0%9F%95%B8%EF%B8%8F+%3A3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=22&pause=1500&color=38BDF8&center=true&vCenter=true&width=520&height=50&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A7%A0;Building+Agentic+AI+%26+RAG+Pipelines+%E2%9A%A1;Full-Stack+Mobile+Developer+(Flutter)+%F0%9F%93%B1;CSE+Final-Year+Student+%40+SMUCT+%F0%9F%8E%93;Friendly+neighborhood+dev+%F0%9F%95%B8%EF%B8%8F+%3A3" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -60,7 +60,7 @@
 ## 🪪 Developer ID & Mission Control
 
 <div align="center">
-  <img src="./id-dashboard.svg?v=7" width="100%" alt="Jayeed Developer ID & Dashboard"/>
+  <img src="./id-dashboard.svg?v=8" width="100%" alt="Jayeed Developer ID & Dashboard"/>
 </div>
 
 <div align="center">
@@ -97,7 +97,7 @@
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="./stack.svg?v=7" width="100%" alt="Technical Arsenal"/>
+  <img src="./stack.svg?v=8" width="100%" alt="Technical Arsenal"/>
 </div>
 
 <br/>
@@ -383,29 +383,17 @@ Interactive career progression tracker guiding developers through tech stack mil
 
 <div align="center">
 
-<table style="border: none; background: transparent;">
-<tr>
-<td align="center" style="border: none;">
-  <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mhjayeed715&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</td>
-<td align="center" style="border: none;">
-  <img width="380" src="https://github-readme-stats-salesp07.vercel.app/api?username=mhjayeed715&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mhjayeed715&count_private=true&theme=react&border_radius=10" alt="streak stats" style="max-width:100%; margin:4px;"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=mhjayeed715&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" style="max-width:100%; margin:4px;"/>
+</p>
 
 <br/>
 
-<table style="border: none; background: transparent;">
-<tr>
-<td align="center" style="border: none;">
-  <img width="340" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mhjayeed715&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
-</td>
-<td align="center" style="border: none;">
-  <img src="https://github-profile-trophy-seven.vercel.app/?username=mhjayeed715&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="trophies"/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mhjayeed715&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" style="max-width:100%; margin:4px;"/>
+  <img src="https://github-profile-trophy-seven.vercel.app/?username=mhjayeed715&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="trophies" style="max-width:100%; margin:4px;"/>
+</p>
 
 <br/>
 
@@ -435,7 +423,7 @@ Interactive career progression tracker guiding developers through tech stack mil
 
 <!-- 💌 LET'S CONNECT -->
 <a href="https://jayeed.pro.bd">
-  <img src="./connect.svg?v=7" width="100%" alt="Let's connect — S. M. Mehrab Hossain Jayeed"/>
+  <img src="./connect.svg?v=8" width="100%" alt="Let's connect — S. M. Mehrab Hossain Jayeed"/>
 </a>
 
 <br/><br/>
@@ -448,10 +436,3 @@ Interactive career progression tracker guiding developers through tech stack mil
 <a href="https://instagram.com/mhjayeed715"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://github.com/mhjayeed715"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/><br/>
-
-<a href="https://github.com/mhjayeed715">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:38bdf8&height=120&section=footer&text=Crafted%20by%20S.%20M.%20Mehrab%20Hossain%20Jayeed&fontSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
-</a>
-
-</div>
