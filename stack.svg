@@ -228,8 +228,8 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 
 <!-- Category 4: TOOLS & WORKFLOW -->
 <g class="chip" style="animation-delay:1.35s">
-  <rect x="552" y="362" width="14" height="3" rx="1.5" fill="#f472b6"/>
-  <text class="jbb" x="574" y="367" font-size="11.5" fill="#f472b6" letter-spacing="2">TOOLS &amp; WORKFLOW</text>
+  <rect x="552" y="362" width="14" height="3" rx="1.5" fill="#34d399"/>
+  <text class="jbb" x="574" y="367" font-size="11.5" fill="#34d399" letter-spacing="2">TOOLS &amp; WORKFLOW</text>
 </g>
 <g class="chip" style="animation-delay:1.45s">
   <rect x="552" y="382" width="110" height="38" rx="11" fill="#EE4C2C" fill-opacity=".08"/>

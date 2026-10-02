@@ -4,7 +4,7 @@
 <!-- HERO BANNER — animated hello video                                        -->
 <!-- ████████████████████████████████████████████████████████████████████████ -->
 <a href="https://jayeed.pro.bd">
-  <img src="./hero.svg?v=12" width="100%" alt="S. M. Mehrab Hossain Jayeed — Full-Stack &amp; Mobile Engineer" />
+  <img src="./hero.svg?v=16" width="100%" alt="S. M. Mehrab Hossain Jayeed — Full-Stack &amp; Mobile Engineer" />
 </a>
 
 <!-- TYPING ROLES (Synchronized with portfolio jayeed.pro.bd) -->
@@ -48,7 +48,7 @@
 
 <div align="center">
   <a href="https://jayeed.pro.bd">
-    <img src="./id-dashboard.svg?v=12" width="100%" alt="Jayeed Developer ID &amp; Dashboard"/>
+    <img src="./id-dashboard.svg?v=16" width="100%" alt="Jayeed Developer ID &amp; Dashboard"/>
   </a>
 </div>
 
@@ -57,7 +57,7 @@
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="./stack.svg?v=12" width="100%" alt="Technical Arsenal"/>
+  <img src="./stack.svg?v=16" width="100%" alt="Technical Arsenal"/>
 </div>
 
 <br/>
@@ -293,7 +293,7 @@ AI-driven curriculum architecture platform providing precision guidance, cogniti
 
 <!-- ACHIEVEMENTS & TROPHIES -->
 <a href="https://jayeed.pro.bd">
-  <img src="./trophies.svg?v=2" width="100%" alt="S. M. Mehrab Hossain Jayeed - Achievement Trophies"/>
+  <img src="./trophies.svg?v=16" width="100%" alt="S. M. Mehrab Hossain Jayeed - Achievement Trophies"/>
 </a>
 
 <br/><br/>
@@ -322,7 +322,7 @@ AI-driven curriculum architecture platform providing precision guidance, cogniti
 <div align="center">
 
 <a href="https://jayeed.pro.bd">
-  <img src="./connect.svg?v=12" width="100%" alt="Let's connect — S. M. Mehrab Hossain Jayeed"/>
+  <img src="./connect.svg?v=16" width="100%" alt="Let's connect — S. M. Mehrab Hossain Jayeed"/>
 </a>
 
 <br/><br/>
