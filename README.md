@@ -345,9 +345,16 @@ AI-driven curriculum architecture platform providing precision guidance, cogniti
 
 ---
 
-## ⚡ GitHub Statistics
+## ⚡ GitHub Statistics &amp; Milestones
 
 <div align="center">
+
+<!-- ACHIEVEMENTS & TROPHIES -->
+<a href="https://jayeed.pro.bd">
+  <img src="./trophies.svg?v=1" width="100%" alt="S. M. Mehrab Hossain Jayeed - Achievement Trophies"/>
+</a>
+
+<br/><br/>
 
 <p align="center">
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mhjayeed715&count_private=true&theme=react&border_radius=10" alt="streak stats" style="max-width:100%; margin:4px;"/>
@@ -386,6 +393,11 @@ AI-driven curriculum architecture platform providing precision guidance, cogniti
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4&height=100&section=footer&text=Crafted%20with%20%E2%9D%A4%EF%B8%8F%20%26%20%E2%9A%A1%20by%20S.%20M.%20Mehrab%20Hossain%20Jayeed&fontSize=16&fontColor=ffffff&animation=twinkling" width="100%"/>
+<p align="center">
+  <i>"Turning early-stage ideas into dependable, fluid, and scalable products that are ready to launch."</i>
+  <br/>
+  <sub>⚡ Designed &amp; Engineered with precision by <b>S. M. Mehrab Hossain Jayeed</b> · Dhaka, Bangladesh 🇧🇩</sub>
+</p>
 
 </div>
+
