@@ -21,11 +21,10 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 @keyframes draw{from{stroke-dashoffset:60}to{stroke-dashoffset:0}}
 </style>
 <linearGradient id="nameG" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
-  <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
-  <animateTransform attributeName="gradientTransform" type="translate" values="-.35 0;.35 0;-.35 0" dur="7s" repeatCount="indefinite"/>
+  <stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#38bdf8"/>
 </linearGradient>
 <linearGradient id="nameG2" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+  <stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#38bdf8"/>
 </linearGradient>
 <linearGradient id="fadeL" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0" stop-color="#000"/><stop offset=".26" stop-color="#fff"/><stop offset="1" stop-color="#fff"/>
@@ -91,7 +90,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 
   <text clip-path="url(#hiClip)" class="sgm" x="64" y="164" font-size="30" fill="#ffffff">Hello there, I'm</text>
   <g clip-path="url(#nameClip)">
-    <text class="sg" x="60" y="246" font-size="41" letter-spacing="-0.5" fill="url(#nameG)" filter="url(#glow)">S. M. Mehrab Hossain Jayeed</text>
+    <text class="sg" x="60" y="246" font-size="41" letter-spacing="-0.5" fill="#38bdf8" filter="url(#glow)">S. M. Mehrab Hossain Jayeed</text>
   </g>
   <text class="jbb fi" x="64" y="324" font-size="21" fill="#22d3ee" style="animation-delay:1.8s">&gt;</text>
   <text class="role jb" x="92" y="324" font-size="20" fill="#ffffff" opacity="1" style="animation-delay:1.9s">Full-Stack &amp; Mobile Engineer &#8594; React &amp; Flutter</text>
@@ -116,7 +115,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
   </g>
   <g class="fu" style="animation-delay:3.3s">
     <g transform="translate(416,453)">
-      <path d="M0-8l2.4 5 5.4.6-4 3.7 1.1 5.4L0 4 -4.9 6.7-3.8 1.3-7.8-2.4l5.4-.6z" fill="none" stroke="#f472b6" stroke-width="1.7" stroke-linejoin="round"/>
+      <path d="M0-8l2.4 5 5.4.6-4 3.7 1.1 5.4L0 4 -4.9 6.7-3.8 1.3-7.8-2.4l5.4-.6z" fill="none" stroke="#38bdf8" stroke-width="1.7" stroke-linejoin="round"/>
     </g>
     <text class="jb" x="432" y="458" font-size="14.5" fill="#38bdf8">React &#183; Flutter &#183; AI</text>
   </g>
@@ -126,8 +125,8 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
   <line class="corner" x1="40" y1="40" x2="76" y2="40" stroke="#22d3ee" stroke-width="2" style="animation-delay:.15s"/>
   <line class="corner" x1="1240" y1="40" x2="1240" y2="76" stroke="#a78bfa" stroke-width="2" style="animation-delay:.2s"/>
   <line class="corner" x1="1204" y1="40" x2="1240" y2="40" stroke="#a78bfa" stroke-width="2" style="animation-delay:.25s"/>
-  <line class="corner" x1="40" y1="500" x2="40" y2="464" stroke="#f472b6" stroke-width="2" style="animation-delay:.3s"/>
-  <line class="corner" x1="40" y1="500" x2="76" y2="500" stroke="#f472b6" stroke-width="2" style="animation-delay:.35s"/>
+  <line class="corner" x1="40" y1="500" x2="40" y2="464" stroke="#22d3ee" stroke-width="2" style="animation-delay:.3s"/>
+  <line class="corner" x1="40" y1="500" x2="76" y2="500" stroke="#22d3ee" stroke-width="2" style="animation-delay:.35s"/>
   <line class="corner" x1="1240" y1="500" x2="1240" y2="464" stroke="#34d399" stroke-width="2" style="animation-delay:.4s"/>
   <line class="corner" x1="1204" y1="500" x2="1240" y2="500" stroke="#34d399" stroke-width="2" style="animation-delay:.45s"/>
 </g>

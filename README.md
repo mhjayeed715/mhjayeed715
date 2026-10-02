@@ -128,7 +128,7 @@ Unified university mobile ecosystem connecting students, faculty, and administra
 **Tech Stack:** `Flutter` · `Dart` · `Supabase` · `pgvector` · `Groq API` · `FCM` · `OpenStreetMap`
 
 <p align="center">
-  <a href="https://unisharesync.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-unisharesync.vercel.app-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
+  <a href="https://unisharesync.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-UniShareSync-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
   <a href="https://github.com/mhjayeed715/UniShareSync-Mobile-App"><img src="https://img.shields.io/badge/Source_Code-UniShareSync-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
 </p>
 
@@ -153,7 +153,7 @@ Full-stack student productivity ecosystem and cognitive shield designed for neur
 **Tech Stack:** `Next.js 14` · `TypeScript` · `Supabase` · `Chrome MV3` · `Win32 Hooks` · `Groq API`
 
 <p align="center">
-  <a href="https://focusnyx.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-focusnyx.vercel.app-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
+  <a href="https://focusnyx.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Focusnyx-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
   <a href="https://github.com/mhjayeed715/Focusnyx"><img src="https://img.shields.io/badge/Source_Code-Focusnyx-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
 </p>
 
@@ -180,7 +180,7 @@ Interpretable policy intelligence dashboard scoring compounded digital-access an
 **Tech Stack:** `Next.js 15` · `Python ETL & ML` · `MapLibre GL` · `Scikit-learn` · `SHAP` · `Supabase`
 
 <p align="center">
-  <a href="https://doublegapindex.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-doublegapindex.vercel.app-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
+  <a href="https://doublegapindex.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Double_Gap_Index-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
   <a href="https://github.com/mhjayeed715/Double-Gap-Index-DGI"><img src="https://img.shields.io/badge/Source_Code-Double--Gap--Index-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
 </p>
 
@@ -207,7 +207,7 @@ Peer-to-peer campus marketplace where verified university students hire batchmat
 **Tech Stack:** `React` · `Node.js` · `Express.js` · `MongoDB` · `Socket.IO` · `TailwindCSS`
 
 <p align="center">
-  <a href="https://gigcampus-7er7.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-gigcampus-0284c7?style=for-the-badge&logo=render" alt="Live Demo"/></a>
+  <a href="https://gigcampus-7er7.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-GigCampus-0284c7?style=for-the-badge&logo=render" alt="Live Demo"/></a>
   <a href="https://github.com/mhjayeed715/GigCampus"><img src="https://img.shields.io/badge/Source_Code-GigCampus-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
 </p>
 
@@ -232,7 +232,7 @@ AI-driven curriculum architecture platform providing precision guidance, cogniti
 **Tech Stack:** `React` · `Node.js` · `Express.js` · `MongoDB` · `JWT Auth` · `TailwindCSS`
 
 <p align="center">
-  <a href="https://skillvoyageweb.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-skillvoyage-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
+  <a href="https://skillvoyageweb.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-SkillVoyage-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
   <a href="https://github.com/mhjayeed715/skillvoyage"><img src="https://img.shields.io/badge/Source_Code-SkillVoyage-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
 </p>
 
