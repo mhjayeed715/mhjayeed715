@@ -4,12 +4,12 @@
 <!-- HERO BANNER — animated hello video                                        -->
 <!-- ████████████████████████████████████████████████████████████████████████ -->
 <a href="https://jayeed.pro.bd">
-  <img src="./hero.svg?v=11" width="100%" alt="S. M. Mehrab Hossain Jayeed — Full-Stack &amp; Mobile Engineer" />
+  <img src="./hero.svg?v=12" width="100%" alt="S. M. Mehrab Hossain Jayeed — Full-Stack &amp; Mobile Engineer" />
 </a>
 
 <!-- TYPING ROLES (Synchronized with portfolio jayeed.pro.bd) -->
 <a href="https://jayeed.pro.bd">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1800&color=38BDF8&center=true&vCenter=true&width=560&height=48&lines=Full-Stack+%26+Mobile+Engineer+%E2%9A%A1;React+%26+Flutter+Specialist+%F0%9F%93%B1;Building+Scalable+Software+%26+MVPs+%F0%9F%9A%80;AI+Workflows+%26+RAG+Pipelines+%F0%9F%A7%A0;CSE+Finalist+%40+SMUCT+(CGPA+3.93)+%F0%9F%8E%93;Friendly+neighborhood+dev+%F0%9F%95%B8%EF%B8%8F+%3A3" alt="Typing Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1800&color=38BDF8&center=true&vCenter=true&width=560&height=48&lines=Full-Stack+%26+Mobile+Engineer+%E2%9A%A1;React+%26+Flutter+Specialist+%F0%9F%93%B1;Building+Scalable+Software+%26+MVPs+%F0%9F%9A%80;AI+Workflows+%26+RAG+Pipelines+%F0%9F%A7%A0;CSE+Finalist+%40+SMUCT+%F0%9F%8E%93;Friendly+neighborhood+dev+%F0%9F%95%B8%EF%B8%8F+%3A3" alt="Typing Roles" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
   <a href="https://jayeed.pro.bd"><img src="https://img.shields.io/badge/Projects-9%2B%20Shipped-0284c7?style=flat-square&logo=github" alt="9+ Projects"/></a>
   <a href="https://jayeed.pro.bd"><img src="https://img.shields.io/badge/Technologies-20%2B%20Mastered-6366f1?style=flat-square&logo=codeblocks" alt="20+ Technologies"/></a>
   <a href="https://jayeed.pro.bd"><img src="https://img.shields.io/badge/Experience-3%2B%20Years%20Coding-10b981?style=flat-square&logo=clock" alt="3+ Years Coding"/></a>
-  <a href="https://jayeed.pro.bd"><img src="https://img.shields.io/badge/Academics-CGPA%203.93%20%2F%204.00-f59e0b?style=flat-square&logo=google-scholar" alt="CGPA 3.93"/></a>
+  <a href="https://github.com/mhjayeed715/UniShareSync-Mobile-App"><img src="https://img.shields.io/badge/Award-Showcase%202026%20Winner-f59e0b?style=flat-square&logo=trophy" alt="Showcase Winner"/></a>
   <a href="mailto:mehrabjayeed715@gmail.com"><img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-38bdf8?style=flat-square&logo=target" alt="Status"/></a>
 </p>
 
@@ -29,44 +29,26 @@
 
 ## 🕷️ About Me
 
-<table width="100%" style="border: none; background: transparent;">
-<tr>
-<td width="70%" valign="top" style="border: none; padding-right: 18px;">
+<p align="center">
+  <img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="160" style="border-radius:14px;" alt="Spider-Man"/>
+</p>
 
 👋 **Hey! I'm S. M. Mehrab Hossain Jayeed** — a Full-Stack &amp; Mobile Engineer specializing in high-velocity MVP execution. I bridge clean interface design with hardened backend architectures, helping founders and engineering teams build products that look refined and scale cleanly.
 
-📱 **Mobile Engineering** — Crafting fluid 60/120fps cross-platform apps with **Flutter &amp; Dart**, backed by Supabase Realtime, offline SQLite caching, and live GPS routing.
+- 📱 **Mobile Engineering** — Crafting fluid 60/120fps cross-platform apps with **Flutter &amp; Dart**, backed by Supabase Realtime, offline SQLite caching, and live GPS routing.
+- ⚡ **Full-Stack Systems** — Shipping high-performance web applications using **React, Next.js, and TypeScript**, backed by PostgreSQL schemas, Row-Level Security (RLS), and RESTful APIs.
+- 🧠 **AI &amp; RAG Workflows** — Designing custom vector search pipelines (**Supabase pgvector**), high-throughput **Groq LLM** integrations, and empirical machine learning models.
+- 🎓 **Academics** — Final-year B.Sc. in Computer Science &amp; Engineering at **Shanto-Mariam University of Creative Technology** (Dhaka, Bangladesh 🇧🇩).
 
-⚡ **Full-Stack Systems** — Shipping high-performance web applications using **React, Next.js, and TypeScript**, backed by PostgreSQL schemas, Row-Level Security (RLS), and RESTful APIs.
-
-🧠 **AI &amp; RAG Workflows** — Designing custom vector search pipelines (**Supabase pgvector**), high-throughput **Groq LLM** integrations, and empirical machine learning models (**K-Means &amp; SHAP**).
-
-🎓 **Academics** — Final-year B.Sc. in Computer Science &amp; Engineering at **Shanto-Mariam University of Creative Technology** (*CGPA: 3.93 / 4.00*).
-
-🕸 *"With great compute power comes great responsibility."* — I work genuinely best under pressure `:3`
-
-</td>
-<td width="30%" align="center" valign="middle" style="border: none;">
-
-<a href="https://jayeed.pro.bd">
-  <img src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="180" style="border-radius:14px;" alt="Spider-Man"/>
-</a>
-
-<br/>
-
-📍 **Khilkhet, Dhaka, Bangladesh** 🇧🇩
-
-</td>
-</tr>
-</table>
+*"With great compute power comes great responsibility."* — I work genuinely best under pressure `:3`
 
 ---
 
-## 🪪 Developer ID & Mission Control
+## 🪪 Developer ID &amp; Mission Control
 
 <div align="center">
   <a href="https://jayeed.pro.bd">
-    <img src="./id-dashboard.svg?v=11" width="100%" alt="Jayeed Developer ID &amp; Dashboard"/>
+    <img src="./id-dashboard.svg?v=12" width="100%" alt="Jayeed Developer ID &amp; Dashboard"/>
   </a>
 </div>
 
@@ -75,7 +57,7 @@
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="./stack.svg?v=11" width="100%" alt="Technical Arsenal"/>
+  <img src="./stack.svg?v=12" width="100%" alt="Technical Arsenal"/>
 </div>
 
 <br/>
@@ -129,34 +111,26 @@
 ### 📱 UniShareSync — University Collaboration &amp; Campus Ecosystem
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<table width="100%" style="border: none;">
-<tr>
-<td width="54%" valign="top" style="border: none; padding-right: 16px;">
+> 🏆 **2nd Place Winner — Software Project Showcase 2026**
 
-**🏆 2nd Place Winner — Software Project Showcase 2026**
+<p align="center">
+  <a href="https://unisharesync.vercel.app/">
+    <img src="./myresources/projects/unisharesync_mobile.png" width="100%" style="border-radius:12px; max-width:850px;" alt="UniShareSync Mobile App"/>
+  </a>
+</p>
 
 Unified university mobile ecosystem connecting students, faculty, and administration. Features an AI Campus Assistant with citation-backed document RAG querying, real-time collaborative Kanban whiteboards, live bus transit tracking via OpenStreetMap, and trust-scored peer commerce.
 
-**Key Highlights:**
 - 🤖 **Groq RAG AI Assistant** — Vector-grounded semantic search over academic course notes via Supabase pgvector.
 - 🗺️ **Live Campus Transit** — Real-time bus GPS tracking with OpenStreetMap and automated route timetables.
 - 🔄 **Real-Time Workspace** — Collaborative whiteboards and Kanban sync via Supabase Realtime webhooks.
 
-**Stack:** `Flutter` · `Dart` · `Supabase` · `pgvector` · `Groq API` · `FCM` · `OpenStreetMap`
+**Tech Stack:** `Flutter` · `Dart` · `Supabase` · `pgvector` · `Groq API` · `FCM` · `OpenStreetMap`
 
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-unisharesync.vercel.app-0284c7?style=for-the-badge&logo=vercel)](https://unisharesync.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-UniShareSync-181717?style=for-the-badge&logo=github)](https://github.com/mhjayeed715/UniShareSync-Mobile-App)
-
-</td>
-<td width="46%" valign="middle" style="border: none;">
-  <a href="https://unisharesync.vercel.app/">
-    <img src="./myresources/projects/unisharesync_mobile.png" width="100%" style="border-radius:12px;" alt="UniShareSync"/>
-  </a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://unisharesync.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-unisharesync.vercel.app-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
+  <a href="https://github.com/mhjayeed715/UniShareSync-Mobile-App"><img src="https://img.shields.io/badge/Source_Code-UniShareSync-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
+</p>
 
 <br/>
 
@@ -164,32 +138,24 @@ Unified university mobile ecosystem connecting students, faculty, and administra
 ### 🎯 Focusnyx — Student Life OS &amp; Cognitive Shield
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<table width="100%" style="border: none;">
-<tr>
-<td width="46%" valign="middle" style="border: none; padding-right: 16px;">
+<p align="center">
   <a href="https://focusnyx.vercel.app/">
-    <img src="./myresources/projects/focusnyx.png" width="100%" style="border-radius:12px;" alt="Focusnyx"/>
+    <img src="./myresources/projects/focusnyx.png" width="100%" style="border-radius:12px; max-width:850px;" alt="Focusnyx"/>
   </a>
-</td>
-<td width="54%" valign="top" style="border: none;">
+</p>
 
 Full-stack student productivity ecosystem and cognitive shield designed for neurodivergent learners. Combines a Next.js 14 web app with a Chrome MV3 distraction blocker, native Windows Win32 focus enforcement hooks, and bilingual AI behavioral coaching.
 
-**Key Highlights:**
 - 🔒 **Cross-Surface Focus Lockdown** — Real-time focus sync between web PWA, browser extension, and desktop hooks.
 - 🤖 **AI Behavioral Coach** — Context-aware bilingual (English/Bangla) study coach and automated quiz generation.
-- 📊 **Academic Momentum** — 3-tier analytics dashboard with CGPA/SGPA tracking and study streak metrics.
+- 📊 **Academic Momentum** — 3-tier analytics dashboard with progress tracking and study streak metrics.
 
-**Stack:** `Next.js 14` · `TypeScript` · `Supabase` · `Chrome MV3` · `Win32 Hooks` · `Groq API`
+**Tech Stack:** `Next.js 14` · `TypeScript` · `Supabase` · `Chrome MV3` · `Win32 Hooks` · `Groq API`
 
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-focusnyx.vercel.app-0284c7?style=for-the-badge&logo=vercel)](https://focusnyx.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-Focusnyx-181717?style=for-the-badge&logo=github)](https://github.com/mhjayeed715/Focusnyx)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://focusnyx.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-focusnyx.vercel.app-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
+  <a href="https://github.com/mhjayeed715/Focusnyx"><img src="https://img.shields.io/badge/Source_Code-Focusnyx-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
+</p>
 
 <br/>
 
@@ -197,34 +163,26 @@ Full-stack student productivity ecosystem and cognitive shield designed for neur
 ### 📊 Double Gap Index (DGI) — Policy Intelligence Platform
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<table width="100%" style="border: none;">
-<tr>
-<td width="54%" valign="top" style="border: none; padding-right: 16px;">
+> 🔬 **Empirical Policy AI · 64 Districts Coverage**
 
-**Empirical Policy AI · 64 Districts Coverage**
+<p align="center">
+  <a href="https://doublegapindex.vercel.app/">
+    <img src="./myresources/projects/doublegapindexx.png" width="100%" style="border-radius:12px; max-width:850px;" alt="Double Gap Index"/>
+  </a>
+</p>
 
 Interpretable policy intelligence dashboard scoring compounded digital-access and physical-service-access gaps across all 64 districts of Bangladesh. Employs K-Means clustering and SHAP feature attribution to identify 37 critical double-gap districts.
 
-**Key Highlights:**
 - 🗺️ **Interactive Vector GIS** — High-speed MapLibre GL choropleth maps with 2x2 quadrant policy matrices.
 - 🔬 **Explainable Machine Learning** — Unsupervised clustering paired with SHAP attributions explaining district scores.
 - 🏗️ **Robust Data Pipeline** — Automated Python ETL normalizing BBS survey data across 7 socio-economic indicators.
 
-**Stack:** `Next.js 15` · `Python ETL & ML` · `MapLibre GL` · `Scikit-learn` · `SHAP` · `Supabase`
+**Tech Stack:** `Next.js 15` · `Python ETL & ML` · `MapLibre GL` · `Scikit-learn` · `SHAP` · `Supabase`
 
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-doublegapindex.vercel.app-0284c7?style=for-the-badge&logo=vercel)](https://doublegapindex.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-Double--Gap--Index-181717?style=for-the-badge&logo=github)](https://github.com/mhjayeed715/Double-Gap-Index-DGI)
-
-</td>
-<td width="46%" valign="middle" style="border: none;">
-  <a href="https://doublegapindex.vercel.app/">
-    <img src="./myresources/projects/doublegapindexx.png" width="100%" style="border-radius:12px;" alt="Double Gap Index"/>
-  </a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://doublegapindex.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-doublegapindex.vercel.app-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
+  <a href="https://github.com/mhjayeed715/Double-Gap-Index-DGI"><img src="https://img.shields.io/badge/Source_Code-Double--Gap--Index-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
+</p>
 
 <br/>
 
@@ -232,34 +190,26 @@ Interpretable policy intelligence dashboard scoring compounded digital-access an
 ### 🎓 GigCampus — Campus Micro-Task Marketplace
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<table width="100%" style="border: none;">
-<tr>
-<td width="46%" valign="middle" style="border: none; padding-right: 16px;">
-  <a href="https://gigcampus-7er7.onrender.com/">
-    <img src="./myresources/projects/GigCampus.png" width="100%" style="border-radius:12px;" alt="GigCampus"/>
-  </a>
-</td>
-<td width="54%" valign="top" style="border: none;">
+> ⚡ **CS50x Capstone Project**
 
-**CS50x Capstone Project**
+<p align="center">
+  <a href="https://gigcampus-7er7.onrender.com/">
+    <img src="./myresources/projects/GigCampus.png" width="100%" style="border-radius:12px; max-width:850px;" alt="GigCampus"/>
+  </a>
+</p>
 
 Peer-to-peer campus marketplace where verified university students hire batchmates for freelance skills in design, software development, tutoring, and translation. Built to eliminate scams and unverified third-party freelancers.
 
-**Key Highlights:**
 - 🔐 **Verified Edu-Auth** — Strict institutional email authentication ensuring 100% student-only community.
 - 💬 **Live Communications** — Low-latency Socket.IO messaging with order status tracking and dispute mitigation.
 - 🛡️ **Ghost Protection** — Milestone-based order lifecycles and peer ratings protecting both buyer and seller.
 
-**Stack:** `React` · `Node.js` · `Express.js` · `MongoDB` · `Socket.IO` · `TailwindCSS`
+**Tech Stack:** `React` · `Node.js` · `Express.js` · `MongoDB` · `Socket.IO` · `TailwindCSS`
 
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-gigcampus-0284c7?style=for-the-badge&logo=render)](https://gigcampus-7er7.onrender.com/)
-[![GitHub](https://img.shields.io/badge/Source_Code-GigCampus-181717?style=for-the-badge&logo=github)](https://github.com/mhjayeed715/GigCampus)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://gigcampus-7er7.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-gigcampus-0284c7?style=for-the-badge&logo=render" alt="Live Demo"/></a>
+  <a href="https://github.com/mhjayeed715/GigCampus"><img src="https://img.shields.io/badge/Source_Code-GigCampus-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
+</p>
 
 <br/>
 
@@ -267,32 +217,24 @@ Peer-to-peer campus marketplace where verified university students hire batchmat
 ### 🧭 SkillVoyage — Adaptive Learning &amp; Curriculum Engine
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<table width="100%" style="border: none;">
-<tr>
-<td width="54%" valign="top" style="border: none; padding-right: 16px;">
+<p align="center">
+  <a href="https://skillvoyageweb.vercel.app/">
+    <img src="./myresources/projects/skillvoyagenew.png" width="100%" style="border-radius:12px; max-width:850px;" alt="SkillVoyage"/>
+  </a>
+</p>
 
 AI-driven curriculum architecture platform providing precision guidance, cognitive momentum tracking, and interactive tech career progression roadmaps for software engineers.
 
-**Key Highlights:**
 - 📈 **Dynamic Milestones** — Interactive developer roadmaps with curriculum checklists and self-assessment scoring.
 - 🔐 **Hardened Architecture** — JWT-secured session management, MongoDB indexing, and high-throughput REST APIs.
 - 🎯 **Curated Guidance** — Automated skill trajectory recommendations based on developer career aspirations.
 
-**Stack:** `React` · `Node.js` · `Express.js` · `MongoDB` · `JWT Auth` · `TailwindCSS`
+**Tech Stack:** `React` · `Node.js` · `Express.js` · `MongoDB` · `JWT Auth` · `TailwindCSS`
 
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-skillvoyage-0284c7?style=for-the-badge&logo=vercel)](https://skillvoyageweb.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-SkillVoyage-181717?style=for-the-badge&logo=github)](https://github.com/mhjayeed715/skillvoyage)
-
-</td>
-<td width="46%" valign="middle" style="border: none;">
-  <a href="https://skillvoyageweb.vercel.app/">
-    <img src="./myresources/projects/skillvoyagenew.png" width="100%" style="border-radius:12px;" alt="SkillVoyage"/>
-  </a>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://skillvoyageweb.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-skillvoyage-0284c7?style=for-the-badge&logo=vercel" alt="Live Demo"/></a>
+  <a href="https://github.com/mhjayeed715/skillvoyage"><img src="https://img.shields.io/badge/Source_Code-SkillVoyage-181717?style=for-the-badge&logo=github" alt="Source Code"/></a>
+</p>
 
 <br/>
 
@@ -351,7 +293,7 @@ AI-driven curriculum architecture platform providing precision guidance, cogniti
 
 <!-- ACHIEVEMENTS & TROPHIES -->
 <a href="https://jayeed.pro.bd">
-  <img src="./trophies.svg?v=1" width="100%" alt="S. M. Mehrab Hossain Jayeed - Achievement Trophies"/>
+  <img src="./trophies.svg?v=2" width="100%" alt="S. M. Mehrab Hossain Jayeed - Achievement Trophies"/>
 </a>
 
 <br/><br/>
@@ -380,7 +322,7 @@ AI-driven curriculum architecture platform providing precision guidance, cogniti
 <div align="center">
 
 <a href="https://jayeed.pro.bd">
-  <img src="./connect.svg?v=11" width="100%" alt="Let's connect — S. M. Mehrab Hossain Jayeed"/>
+  <img src="./connect.svg?v=12" width="100%" alt="Let's connect — S. M. Mehrab Hossain Jayeed"/>
 </a>
 
 <br/><br/>
@@ -400,4 +342,3 @@ AI-driven curriculum architecture platform providing precision guidance, cogniti
 </p>
 
 </div>
-
