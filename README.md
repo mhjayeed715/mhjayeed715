@@ -19,7 +19,6 @@
   <a href="https://jayeed.pro.bd"><img src="https://img.shields.io/badge/Projects-9%2B%20Shipped-0284c7?style=flat-square&logo=github" alt="9+ Projects"/></a>
   <a href="https://jayeed.pro.bd"><img src="https://img.shields.io/badge/Technologies-20%2B%20Mastered-6366f1?style=flat-square&logo=codeblocks" alt="20+ Technologies"/></a>
   <a href="https://jayeed.pro.bd"><img src="https://img.shields.io/badge/Experience-3%2B%20Years%20Coding-10b981?style=flat-square&logo=clock" alt="3+ Years Coding"/></a>
-  <a href="https://github.com/mhjayeed715/UniShareSync-Mobile-App"><img src="https://img.shields.io/badge/Award-Showcase%202026%20Winner-f59e0b?style=flat-square&logo=trophy" alt="Showcase Winner"/></a>
   <a href="mailto:mehrabjayeed715@gmail.com"><img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-38bdf8?style=flat-square&logo=target" alt="Status"/></a>
 </p>
 
@@ -110,8 +109,6 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 ### 📱 UniShareSync — University Collaboration &amp; Campus Ecosystem
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-> 🏆 **2nd Place Winner — Software Project Showcase 2026**
 
 <p align="center">
   <a href="https://unisharesync.vercel.app/">
@@ -293,7 +290,7 @@ AI-driven curriculum architecture platform providing precision guidance, cogniti
 
 <!-- ACHIEVEMENTS & TROPHIES -->
 <a href="https://jayeed.pro.bd">
-  <img src="./trophies.svg?v=16" width="100%" alt="S. M. Mehrab Hossain Jayeed - Achievement Trophies"/>
+  <img src="./trophies.svg?v=17" width="100%" alt="S. M. Mehrab Hossain Jayeed - Achievement Trophies"/>
 </a>
 
 <br/><br/>
