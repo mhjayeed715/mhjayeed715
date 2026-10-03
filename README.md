@@ -47,7 +47,7 @@
 
 <div align="center">
   <a href="https://jayeed.pro.bd">
-    <img src="./id-dashboard.svg?v=16" width="100%" alt="Jayeed Developer ID &amp; Dashboard"/>
+    <img src="./id-dashboard.svg?v=18" width="100%" alt="Jayeed Developer ID &amp; Dashboard"/>
   </a>
 </div>
 

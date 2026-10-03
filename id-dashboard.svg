@@ -54,43 +54,43 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
   <text class="jbb" x="442" y="272" font-size="11" fill="#94a3b8" letter-spacing="1.6">FEATURED PROJECTS &amp; FLAGSHIPS</text>
 
   <!-- Row 1: UniShareSync -->
-  <circle cx="447" cy="308" r="3" fill="#22d3ee"/>
-  <text class="jbb" x="458" y="312" font-size="12.5" fill="#ffffff">UniShareSync</text>
-  <text class="jb" x="595" y="312" font-size="11" fill="#94a3b8">Campus Ecosystem &#183; Flutter</text>
-  <rect x="764" y="299" width="98" height="20" rx="10" fill="#22d3ee" fill-opacity=".09" stroke="#22d3ee" stroke-opacity=".4"/>
-  <text class="jbb" x="813" y="313" font-size="9" fill="#22d3ee" text-anchor="middle" letter-spacing="1">FEATURED</text>
+  <circle cx="444" cy="308" r="3" fill="#22d3ee"/>
+  <text class="jbb" x="456" y="312" font-size="12" fill="#ffffff">UniShareSync</text>
+  <text class="sgm" x="582" y="312" font-size="11" fill="#94a3b8">Campus Ecosystem &#183; Flutter</text>
+  <rect x="786" y="299" width="76" height="20" rx="10" fill="#22d3ee" fill-opacity=".09" stroke="#22d3ee" stroke-opacity=".4"/>
+  <text class="jbb" x="824" y="312.5" font-size="8.5" fill="#22d3ee" text-anchor="middle" letter-spacing="1">FEATURED</text>
   <line x1="442" y1="329" x2="862" y2="329" stroke="#ffffff" stroke-opacity=".04"/>
 
   <!-- Row 2: Focusnyx -->
-  <circle cx="447" cy="348" r="3" fill="#a78bfa"/>
-  <text class="jbb" x="458" y="352" font-size="12.5" fill="#ffffff">Focusnyx</text>
-  <text class="jb" x="595" y="352" font-size="11" fill="#94a3b8">Life OS &amp; Shield &#183; Next.js</text>
-  <rect x="764" y="339" width="98" height="20" rx="10" fill="#a78bfa" fill-opacity=".09" stroke="#a78bfa" stroke-opacity=".4"/>
-  <text class="jbb" x="813" y="353" font-size="9" fill="#a78bfa" text-anchor="middle" letter-spacing="1">ACTIVE</text>
+  <circle cx="444" cy="348" r="3" fill="#a78bfa"/>
+  <text class="jbb" x="456" y="352" font-size="12" fill="#ffffff">Focusnyx</text>
+  <text class="sgm" x="582" y="352" font-size="11" fill="#94a3b8">Life OS &amp; Shield &#183; Next.js</text>
+  <rect x="786" y="339" width="76" height="20" rx="10" fill="#a78bfa" fill-opacity=".09" stroke="#a78bfa" stroke-opacity=".4"/>
+  <text class="jbb" x="824" y="352.5" font-size="8.5" fill="#a78bfa" text-anchor="middle" letter-spacing="1">ACTIVE</text>
   <line x1="442" y1="369" x2="862" y2="369" stroke="#ffffff" stroke-opacity=".04"/>
 
   <!-- Row 3: Double Gap Index -->
-  <circle cx="447" cy="388" r="3" fill="#fbbf24"/>
-  <text class="jbb" x="458" y="392" font-size="12.5" fill="#ffffff">Double Gap Index</text>
-  <text class="jb" x="595" y="392" font-size="11" fill="#94a3b8">Policy Intelligence &#183; Python/GIS</text>
-  <rect x="764" y="379" width="98" height="20" rx="10" fill="#fbbf24" fill-opacity=".09" stroke="#fbbf24" stroke-opacity=".4"/>
-  <text class="jbb" x="813" y="393" font-size="9" fill="#fbbf24" text-anchor="middle" letter-spacing="1">RESEARCH</text>
+  <circle cx="444" cy="388" r="3" fill="#fbbf24"/>
+  <text class="jbb" x="456" y="392" font-size="12" fill="#ffffff">Double Gap Index</text>
+  <text class="sgm" x="582" y="392" font-size="11" fill="#94a3b8">Policy AI &#183; Python/GIS</text>
+  <rect x="786" y="379" width="76" height="20" rx="10" fill="#fbbf24" fill-opacity=".09" stroke="#fbbf24" stroke-opacity=".4"/>
+  <text class="jbb" x="824" y="392.5" font-size="8.5" fill="#fbbf24" text-anchor="middle" letter-spacing="1">RESEARCH</text>
   <line x1="442" y1="409" x2="862" y2="409" stroke="#ffffff" stroke-opacity=".04"/>
 
   <!-- Row 4: GigCampus -->
-  <circle cx="447" cy="428" r="3" fill="#38bdf8"/>
-  <text class="jbb" x="458" y="432" font-size="12.5" fill="#ffffff">GigCampus</text>
-  <text class="jb" x="595" y="432" font-size="11" fill="#94a3b8">Campus Task Market &#183; MERN</text>
-  <rect x="764" y="419" width="98" height="20" rx="10" fill="#38bdf8" fill-opacity=".09" stroke="#38bdf8" stroke-opacity=".4"/>
-  <text class="jbb" x="813" y="433" font-size="9" fill="#38bdf8" text-anchor="middle" letter-spacing="1">CAMPUS</text>
+  <circle cx="444" cy="428" r="3" fill="#38bdf8"/>
+  <text class="jbb" x="456" y="432" font-size="12" fill="#ffffff">GigCampus</text>
+  <text class="sgm" x="582" y="432" font-size="11" fill="#94a3b8">Campus Task Market &#183; MERN</text>
+  <rect x="786" y="419" width="76" height="20" rx="10" fill="#38bdf8" fill-opacity=".09" stroke="#38bdf8" stroke-opacity=".4"/>
+  <text class="jbb" x="824" y="432.5" font-size="8.5" fill="#38bdf8" text-anchor="middle" letter-spacing="1">CAMPUS</text>
   <line x1="442" y1="449" x2="862" y2="449" stroke="#ffffff" stroke-opacity=".04"/>
 
   <!-- Row 5: SkillVoyage -->
-  <circle cx="447" cy="468" r="3" fill="#34d399"/>
-  <text class="jbb" x="458" y="472" font-size="12.5" fill="#ffffff">SkillVoyage</text>
-  <text class="jb" x="595" y="472" font-size="11" fill="#94a3b8">Adaptive Learning &#183; React/Node</text>
-  <rect x="764" y="459" width="98" height="20" rx="10" fill="#34d399" fill-opacity=".09" stroke="#34d399" stroke-opacity=".4"/>
-  <text class="jbb" x="813" y="473" font-size="9" fill="#34d399" text-anchor="middle" letter-spacing="1">ROADMAP</text>
+  <circle cx="444" cy="468" r="3" fill="#34d399"/>
+  <text class="jbb" x="456" y="472" font-size="12" fill="#ffffff">SkillVoyage</text>
+  <text class="sgm" x="582" y="472" font-size="11" fill="#94a3b8">Adaptive Roadmaps &#183; React</text>
+  <rect x="786" y="459" width="76" height="20" rx="10" fill="#34d399" fill-opacity=".09" stroke="#34d399" stroke-opacity=".4"/>
+  <text class="jbb" x="824" y="472.5" font-size="8.5" fill="#34d399" text-anchor="middle" letter-spacing="1">ROADMAP</text>
 
   <text class="jb" x="442" y="515" font-size="10.5" fill="#94a3b8" opacity=".9">9+ projects shipped &#183; 20+ technologies &#183; 3+ yrs coding</text>
 </g>
